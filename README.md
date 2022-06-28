@@ -1,1 +1,1 @@
-# maven-app-example
+# maven-app-example version2
